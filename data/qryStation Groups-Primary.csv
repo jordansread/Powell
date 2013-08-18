@@ -1,0 +1,28 @@
+"Station Group","Site Name","Latitude","Longitude","Channel","RKM"
+"LPCR0024","Wahweap",36.95,-111.48,"CR",2.40
+"LPCR0453","Crossing of the Fathers",37.03,-111.25,"CR",45.30
+"LPCR0905","Oak",37.13,-110.95,"CR",90.50
+"LPCR1001","San Juan R. Confluence",37.17,-110.90,"CR",100.10
+"LPCR1169","Escalante",37.28,-110.87,"CR",116.90
+"LPCR1395","Iceberg",37.33,-110.76,"CR",139.50
+"LPCR1587","Lake",37.42,-110.70,"CR",158.70
+"LPCR1692","Bullfrog",37.45,-110.72,"CR",167.90
+"LPCR1772","Moki",37.48,-110.64,"CR",177.20
+"LPCR1933","Knowles",37.57,-110.59,"CR",193.30
+"LPCR2085","Lower Good Hope Bay",37.65,-110.51,"CR",208.50
+"LPCR2255","Scorup",37.76,-110.43,"CR",225.50
+"LPCR2387","Hite Basin",37.80,-110.43,"CR",238.70
+"LPCR-249","Colorado R. at Lees Ferry",36.86,-111.58,"CR",-24.90
+"LPESC072","Escalante near Clear Creek",37.31,-110.89,"ESC",7.20
+"LPESC119","Escalante at Davis Gulch",37.32,-110.91,"ESC",11.90
+"LPESC200","Escalante at Willow Creek",37.34,-110.93,"ESC",20.00
+"LPESC273","Escalante Inflow above Garces Island",37.37,-110.94,"ESC",27.30
+"LPSJR193","San Juan at Cha Canyon",37.17,-110.81,"SJR",19.30
+"LPSJR329","San Juan at Lower Piute Bay",37.18,-110.71,"SJR",32.90
+"LPSJR431","San Juan at Upper Piute Bay",37.21,-110.67,"SJR",43.10
+"LPSJR530","San Juan at Alcove Canyon",37.26,-110.69,"SJR",53.00
+"LPSJR625","San Juan at Lower Zahn Bay",37.22,-110.62,"SJR",62.50
+"LPCR0000","Glen Canyon Dam Releases",,,"CR",0.00
+"LPCR_INF","Colorado River Inflow Stations",,,"CR",999.00
+"LPESCINF","Escalante River Inflow Stations",,,"ESC",999.00
+"LPSJRINF","San Juan River Inflow Stations",,,"SJR",999.00

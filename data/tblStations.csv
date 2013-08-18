@@ -1,0 +1,304 @@
+"Station ID","Site Name","Latitude","Longitude","Channel","RKM","Station Group","Primary Group?"
+"LPCLE024","Cathedral in the Desert - Clear Creek",37.28,-110.91,"CLE",2.40,"LPCLE024",0
+"LPCR_INF","Colorado River Inflow Stations",,,"CR",999.00,"LPCR_INF",1
+"LPCR0000","Glen Canyon Dam Releases",,,"CR",0.00,"LPCR0000",1
+"LPCR0024","Wahweap",36.95,-111.48,"CR",2.40,"LPCR0024",1
+"LPCR0105","Antelope Point Marina Fuel Dock",,,"CR",10.50,"LPCR0105",0
+"LPCR0237","Romano Narrows",,,"CR",23.70,"LPCR0237",0
+"LPCR0245","Romano Narrows at Buoy 15",,,"CR",24.50,"LPCR0237",0
+"LPCR0250","Romano Narrows",,,"CR",25.00,"LPCR0237",0
+"LPCR0453","Crossing of the Fathers",37.03,-111.25,"CR",45.30,"LPCR0453",1
+"LPCR0707","Wetherill Canyon",,,"CR",70.70,"LPCR0707",0
+"LPCR0905","Oak",37.13,-110.95,"CR",90.50,"LPCR0905",1
+"LPCR1001","San Juan R. Confluence",37.17,-110.90,"CR",100.10,"LPCR1001",1
+"LPCR1169","Escalante",37.28,-110.87,"CR",116.90,"LPCR1169",1
+"LPCR1395","Iceberg",37.33,-110.76,"CR",139.50,"LPCR1395",1
+"LPCR1465","Colorado River above Slickrock Canyon",37.36,-110.72,"CR",146.50,"LPCR1465",0
+"LPCR1587","Lake",37.42,-110.70,"CR",158.70,"LPCR1587",1
+"LPCR1679","Bullfrog",37.45,-110.72,"CR",167.90,"LPCR1692",1
+"LPCR1692","Bullfrog",37.47,-110.72,"CR",169.20,"LPCR1692",0
+"LPCR1724","Bullfrog",,,"CR",172.40,"LPCR1692",0
+"LPCR1772","Moki",37.48,-110.64,"CR",177.20,"LPCR1772",1
+"LPCR1780","Moki",,,"CR",178.00,"LPCR1772",0
+"LPCR1799","Moki",37.49,-110.65,"CR",179.90,"LPCR1772",0
+"LPCR1933","Knowles",37.57,-110.59,"CR",193.30,"LPCR1933",1
+"LPCR2085","Lower Good Hope Bay",37.65,-110.51,"CR",208.50,"LPCR2085",1
+"LPCR2255","Scorup",37.76,-110.43,"CR",225.50,"LPCR2255",1
+"LPCR2387","Hite Basin",37.80,-110.43,"CR",238.70,"LPCR2387",1
+"LPCR2406","Colorado River above Farley Canyon",37.82,-110.43,"CR",240.60,"LPCR_INF",0
+"LPCR2411","Colorado River above Farley Canyon",37.82,-110.43,"CR",241.10,"LPCR_INF",0
+"LPCR2412","Colorado River above Farley Canyon",37.82,-110.33,"CR",241.20,"LPCR_INF",0
+"LPCR2417","Colorado River Inflow at RKM 241.7",,,"CR",241.70,"LPCR_INF",0
+"LPCR2420","Colorado River below Palisades RKM 242.0",37.83,-110.43,"CR",242.00,"LPCR_INF",0
+"LPCR2422","Colorado River at Palasades RKM 242.2",37.83,-110.43,"CR",242.20,"LPCR_INF",0
+"LPCR2426","Colorado River at Palisades RKM 242.6",37.84,-110.43,"CR",242.60,"LPCR_INF",0
+"LPCR2429","Colorado River below Palisades RKM 242.9",37.84,-110.42,"CR",242.90,"LPCR_INF",0
+"LPCR2433","Colorado River Inflow at RKM 243.3",37.84,-110.42,"CR",243.30,"LPCRINF",0
+"LPCR2435","Colorado River below Palisades RKM 243.5",37.84,-110.42,"CR",243.50,"LPCR_INF",0
+"LPCR2440","Colorado River at Palisades",,,"CR",244.00,"LPCR2440",0
+"LPCR2442","Colorado River at RKM 244.2",37.84,-110.41,"CR",244.20,"LPCR_INF",0
+"LPCR2444","Colorado River Inflow at RKM 244.4",37.84,-110.41,"CR",244.40,"LPCR_INF",0
+"LPCR2450","Colorado River Below Hite Marina",37.84,-110.41,"CR",245.00,"LPCR2450",0
+"LPCR2453","Colorado River at RKM 245.3",37.86,-110.40,"CR",245.30,"LPCR_INF",0
+"LPCR2460","Colorado River Below Hite Marina",37.85,-110.40,"CR",246.00,"LPCR_INF",0
+"LPCR2463","Colorado River Inflow at RKM 246.3",37.86,-110.40,"CR",246.30,"LPCR_INF",0
+"LPCR2465","Colorado River below Hite Marina",37.86,-110.40,"CR",246.50,"LPCR_INF",0
+"LPCR2468","Colorado River below Hite Marina",37.86,-110.40,"CR",246.80,"LPCR_INF",0
+"LPCR2480","Colorado River above North Wash",,,"CR",248.00,"LPCR2483",0
+"LPCR2483","Colorado River at North Wash",37.87,-110.40,"CR",248.30,"LPCR2483",0
+"LPCR2487","Colorado River at Hite WQ Buoy",37.88,-110.40,"CR",248.70,"LPCR_INF",0
+"LPCR-249","Colorado R. at Lees Ferry",36.86,-111.58,"CR",-24.90,"LPCR-249",1
+"LPCR2490","Colorado River below Dirty Devil",37.88,-110.40,"CR",249.00,"LPCR_INF",0
+"LPCR2493","Colorado River below Dirty Devil",37.88,-110.40,"CR",249.30,"LPCR_INF",0
+"LPCR2498","Colorado River below Dirty Devil",37.88,-110.39,"CR",249.80,"LPCR_INF",0
+"LPCR2520","Colorado River at Hwy 95 Bridge",37.89,-110.37,"CR",252.00,"LPCR_INF",0
+"LPCR2521","Colorado River at Hwy 95 Bridge",,,"CR",252.10,"LPCR_INF",0
+"LPCR2540","Colorado River Below Rock Canyon",,,"CR",254.00,"LPCR_INF",0
+"LPCR2550","Colorado River below Rock Canyon",37.89,-110.33,"CR",255.00,"LPCR_INF",0
+"LPCR2570","Colorado River above Rock Canyon",,,"CR",257.00,"LPCR_INF",0
+"LPCR2587","Colorado River below Mille Crag Bend",,,"CR",258.70,"LPCR_INF",0
+"LPCR2618","Colorado River below Sheep Canyon",,,"CR",261.80,"LPCR_INF",0
+"LPCR2626","Colorado River at Buoy above Sheep Canyon",37.87,-110.27,"CR",262.60,"LPCR_INF",0
+"LPCR2716","Colorado River at Dark Canyon",,,"CR",271.60,"LPCR_INF",0
+"LPCR2823","Colorado R. below Bowdie Canyon",,,"CR",282.30,"LPCR_INF",0
+"LPCR2897","Colorado River below Palmer Canyon",,,"CR",289.70,"LPCR_INF",0
+"LPCR2990","Colorado River below Imperial Canyon",38.04,-110.05,"CR",299.00,"LPCR_INF",0
+"LPCRDT01","Glen Canyon Dam Draft Tube #1",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT02","Glen Canyon Dam Draft Tube #2",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT03","Glen Canyon Dam Draft Tube #3",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT04","Glen Canyon Dam Draft Tube #4",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT05","Glen Canyon Dam Draft Tube #5",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT06","Glen Canyon Dam Draft Tube #6",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT07","Glen Canyon Dam Draft Tube #7",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRDT08","Glen Canyon Dam Draft Tube #8",36.93,-111.48,"CR",0.00,"LPCR0000",0
+"LPCRRFG2","Glen Canyon Dam Ring Follower Gate #2",36.93,-111.48,"CR",0.00,"LPCRRFG2",0
+"LPESC072","Escalante near Clear Creek",37.31,-110.89,"ESC",7.20,"LPESC072",1
+"LPESC119","Escalante at Davis Gulch",37.32,-110.91,"ESC",11.90,"LPESC119",1
+"LPESC144","Escalante below 50-Mile Creek",37.32,-110.93,"ESC",14.40,"LPESC149",0
+"LPESC149","Escalante at 50-Mile Creek",37.32,-110.92,"ESC",14.90,"LPESC149",0
+"LPESC200","Escalante at Willow Creek",37.34,-110.93,"ESC",20.00,"LPESC200",1
+"LPESC226","Escalante @ RKM 226",37.35,-110.94,"ESC",22.60,"LPESCINF",0
+"LPESC229","Escalante Inflow below 3 House Ruin",37.35,-110.94,"ESC",22.90,"LPESCINF",0
+"LPESC233","Escalante Inflow at RKM 23.3",37.36,-110.94,"ESC",23.30,"LPESCINF",0
+"LPESC235","Escalante at RKM 23.5",,,"ESC",23.50,"LPESCINF",0
+"LPESC236","Escalante at RKM 23.6",,,"ESC",23.60,"LPESCINF",0
+"LPESC237","Escalante Inflow at RKM 23.7",37.36,-110.94,"ESC",23.70,"LPESCINF",0
+"LPESC240","Escalante Inflow at RKM 24.0",,,"ESC",24.00,"LPESCINF",0
+"LPESC248","Escalante below Garces Island",,,"ESC",24.80,"LPESC273",0
+"LPESC273","Escalante Inflow above Garces Island",37.37,-110.94,"ESC",27.30,"LPESC273",1
+"LPESC276","Escalante above Garces Island - Inflow",37.37,-110.94,"ESC",27.60,"LPESCINF",0
+"LPESC279","Escalante above Garces Island - Inflow",,,"ESC",27.90,"LPESCINF",0
+"LPESC280","Escalante above Garces Island - Inflow",,,"ESC",28.00,"LPESCINF",0
+"LPESC282","Escalante Inflow at km 28.2",,,"ESC",28.20,"LPESCINF",0
+"LPESC285","Escalante inflow at Rkm 28.5",37.37,-110.93,"ESC",28.50,"LPESCINF",0
+"LPESC290","Escalante Inflow at RKM 29.0",,,"ESC",29.00,"LPESCINF",0
+"LPESC291","Escalante Inflow at RKM 29.1",37.37,-110.94,"ESC",29.10,"LPESC_INF",0
+"LPESC305","Escalante at Beaches",,,"ESC",30.50,"LPESCINF",0
+"LPESC307","Escalante at Beaches",,,"ESC",30.70,"LPESCINF",0
+"LPESC310","Escalante at Beaches",,,"ESC",31.00,"LPESCINF",0
+"LPESC319","Escalante at Cow-Fence Canyon",,,"ESC",31.90,"LPESC319",0
+"LPESC320","Escalante at Cow/Fence Canyon",,,"ESC",32.00,"LPESC319",0
+"LPESC322","Escalante above Cow/Fence Canyon",,,"ESC",32.20,"LPESCINF",0
+"LPESC325","Escalante Inflow above Cow Fence",,,"ESC",32.50,"LPESCINF",0
+"LPESC328","Escalante Below Cow Fence Gap",,,"ESC",32.80,"LPESCINF",0
+"LPESC331","Escalante at Cow-Fence Gap",,,"ESC",33.10,"LPESC319",0
+"LPESC337","Escalante at Cow Fence Gap",,,"ESC",33.70,"LPESC319",0
+"LPESC345","Escalante Inflow",,,"ESC",34.50,"LPESCINF",0
+"LPESC347","Escalante at Unk Cyn #3",,,"ESC",34.70,"LPESC347",0
+"LPESC348","Escalante at Unk Cyn #3",,,"ESC",34.80,"LPESC347",0
+"LPESC349","Escalante at Unk Cyn #3",,,"ESC",34.90,"LPESC347",0
+"LPESC351","Esc ""Inflow"" @ Waterfall",,,"ESC",35.10,"LPESC358",0
+"LPESC357","Escalante at Waterfall",,,"ESC",35.70,"LPESC358",0
+"LPESC358","Escalante at Waterfall",,,"ESC",35.80,"LPESC358",0
+"LPESC359","Escalante at Waterfall",,,"ESC",35.90,"LPESC358",0
+"LPESC367","Escalante between Cow and Stevens Canyon",,,"ESC",36.70,"LPESCINF",0
+"LPESC370","Escalante Inflow at Alcove",,,"ESC",37.00,"LPESCINF",0
+"LPESC378","Escalante Inflow",37.41,-110.97,"ESC",37.80,"LPESCINF",0
+"LPESC397","Escalante at Big Recurved Loop",,,"ESC",39.70,"LPESCINF",0
+"LPESCINF","Escalante River Inflow Stations",,,"ESC",999.00,"LPESCINF",1
+"LPFAC039","Face Canyon",37.00,-111.24,"FAC",3.90,"LPFAC039",0
+"LPGUN079","Gunsight Canyon",,,"GUN",7.90,"LPGUN079",0
+"LPLAB029","Labyrinth Canyon",36.99,-111.29,"LAB",2.90,"LPLAB029",0
+"LPNAV124","Mid Navajo Canyon",36.92,-111.31,"NAV",12.40,"LPNVC124",0
+"LPNAV147","Navajo Canyon Lower Mid site",36.91,-111.27,"NAV",14.70,"LPNAV147",0
+"LPNAV197","Navajo Canyon Upper Mid site",36.89,-111.27,"NAV",19.70,"LPNAV197",0
+"LPNAV204","Navajo Canyon - Below Plunge",36.89,-111.26,"NAV",20.40,"LPNAV204",0
+"LPNAV211","Navajo Canyon Inflow",36.89,-111.26,"NAV",21.10,"LPNAV211",0
+"LPRED060","Red Canyon off Good Hope Bay",,,"RED",6.00,"LPRED060",0
+"LPROC060","Middle Rock Creek Canyon",37.14,-111.18,"ROC",6.00,"LPROC060",0
+"LPSJR048","San Juan abv Confluence",,,"SJR",4.80,"LPSJR048",0
+"LPSJR193","San Juan at Cha Canyon",37.17,-110.81,"SJR",19.30,"LPSJR193",1
+"LPSJR329","San Juan at Lower Piute Bay",37.18,-110.71,"SJR",32.90,"LPSJR329",1
+"LPSJR431","San Juan at Upper Piute Bay",37.21,-110.67,"SJR",43.10,"LPSJR431",1
+"LPSJR506","San Juan Inflow 2.2km below Alcove cyn",37.25,-110.70,"SJR",50.60,"LPSJRINF",0
+"LPSJR527","San Juan Inflow below Alcove",37.26,-110.69,"SJR",52.70,"LPSJRINF",0
+"LPSJR530","San Juan at Alcove Canyon",37.26,-110.69,"SJR",53.00,"LPSJR530",1
+"LPSJR535","San Juan Inflow at RKM 53.3",,,"SJR",53.50,"LPSJRINF",0
+"LPSJR552","San Juan Inflow at RKM 55.2",37.25,-110.67,"SJR",55.20,"LPSJRINF",0
+"LPSJR570","SJR at RKM 57.0",37.25,-110.65,"SJR",57.00,"LPSJRINF",0
+"LPSJR590","San Juan at Upper Great Bend",37.24,-110.65,"SJR",59.00,"LPSJR530",0
+"LPSJR595","San Juan at Upper Great Bend",37.24,-110.65,"SJR",59.50,"LPSJR_INF",0
+"LPSJR600","SJR Inflow at RKM 60.0",37.24,-110.65,"SJR",60.00,"LPSJRINF",0
+"LPSJR605","San Juan Inflow at RKM 60.5",37.24,-110.63,"SJR",60.50,"LPSJRINF",0
+"LPSJR609","San Juan Inflow at RKM 60.9",37.24,-110.63,"SJR",60.90,"LPSJRINF",0
+"LPSJR618","San Juan Inflow at RKM 61.8",,,"SJR",61.80,"LPSJRINF",0
+"LPSJR625","San Juan at Lower Zahn Bay",37.22,-110.62,"SJR",62.50,"LPSJR625",1
+"LPSJR635","San Juan Inflow above Lower Zahn Bay",37.22,-110.62,"SJR",63.50,"LPSJRINF",0
+"LPSJR650","San Juan River below Mid Zahn Bay",37.21,-110.61,"SJR",65.00,"LPSJRINF",0
+"LPSJR660","San Juan River - below Mid Zahn Bay",37.20,-110.60,"SJR",66.00,"LPSJRINF",0
+"LPSJR665","San Juan River below Mid Zahn Bay",37.20,-110.60,"SJR",66.50,"LPSJRINF",0
+"LPSJR672","San Juan River below Mid Zahn Bay",,,"SJR",67.20,"LPSJRINF",0
+"LPSJR676","San Juan River below Mid Zahn Bay",,,"SJR",67.60,"LPSJRINF",0
+"LPSJR686","San Juan at Mid Zahn Bay",,,"SJR",68.60,"LPSJR686",0
+"LPSJR690","San Juan below Nokai Canyon",,,"SJR",69.00,"LPSJRINF",0
+"LPSJR704","San Juan above Nokai Canyon",,,"SJR",70.40,"LPSJRINF",0
+"LPSJR720","San Juan above Nokai Canyon",,,"SJR",72.00,"LPSJRINF",0
+"LPSJR725","San Juan Above Nokai",,,"SJR",72.50,"LPSJRINF",0
+"LPSJR730","San Juan below Copper Canyon",,,"SJR",73.00,"LPSJRINF",0
+"LPSJR732","San Juan below Copper Canyon",,,"SJR",73.20,"LPSJRINF",0
+"LPSJR735","San Juan below Copper Canyon",37.22,-110.53,"SJR",73.50,"LPSJRINF",0
+"LPSJR740","San Juan below Copper Canyon",37.22,-110.53,"SJR",74.00,"LPSJRINF",0
+"LPSJR790","San Juan-Upper Monitor Bay",,,"SJR",79.00,"LPSJRINF",0
+"LPSJR794","San Juan-Upper Monitor Bay",,,"SJR",79.40,"LPSJRINF",0
+"LPSJR796","San Juan below Mikes Canyon",,,"SJR",79.60,"LPSJRINF",0
+"LPSJR803","San Juan River at Mikes Canyon",,,"SJR",80.30,"LPSJRINF",0
+"LPSJR804","San Juan at Mikes Canyon",,,"SJR",80.40,"LPSJRINF",0
+"LPSJR813","San Juan above Mikes Canyon",,,"SJR",81.30,"LPSJRINF",0
+"LPSJR830","San Juan at Lower Piute Farms",,,"SJR",83.00,"LPSJRINF",0
+"LPSJR831","San Juan at Lower Piute Farms",,,"SJR",83.10,"LPSJRINF",0
+"LPSJR833","San Juan at Lower Piute Farms",,,"SJR",83.30,"LPSJRINF",0
+"LPSJR850","San Juan at Lower Piute Farms",,,"SJR",85.00,"LPSJRINF",0
+"LPSJR855","San Juan at Lower Piute Farms",,,"SJR",85.50,"LPSJRINF",0
+"LPSJR857","San Juan at Lower Piute Farms",,,"SJR",85.70,"LPSJRINF",0
+"LPSJR870","San Juan River at Piute Farms",37.26,-110.42,"SJR",87.00,"LPSJRINF",0
+"LPSJRBLF","San Juan R. near Bluff",,,"SJR",999.00,"LPSJRINF",0
+"LPSJRINF","San Juan River Inflow Stations",,,"SJR",999.00,"LPSJRINF",1
+"LPWAH043","Lower Wahweap Bay",36.97,-111.48,"WAH",4.30,"LPWAH043",0
+"LPWAH100","Upper Wahweap Bay",37.01,-111.49,"WAH",10.00,"LPWAH100",0
+"LPWAR130","Middle Warm Creek Bay",37.06,-111.44,"WAR",13.00,"LPWAR130",0
+"SCAZT001","Aztec Creek #1",,,"AZT",0.10,,0
+"SCAZT002","Aztec Creek #2",,,"AZT",0.20,,0
+"SCAZT003","Aztec Creek #3",,,"AZT",0.30,,0
+"SCBRI030","Bridge Creek at Aztec Creek",37.08,-110.96,"BRI",3.00,"LPCRI064",0
+"SCBRI040","Bridge Creek at Lower Monument Boundary",37.08,-110.96,"BRI",4.00,"LPBRI064",0
+"SCCAT025","Cathedral Canyon - 2.5 mi abv confluence",,,"CAT",2.50,"SCCAT0275",0
+"SCCR_GW","Narrow Canyon Warm Springs (RM 174.5)",,,"CR",0.00,,0
+"SCCR0550","Music Temple Canyon",,,"CR",55.00,,0
+"SCCR0570","San Juan Confluence",,,"CR",1001.00,"LPCR1001",0
+"SCCR0630","Llewellyn Gulch",,,"CR",107.40,"LPCR1074",0
+"SCCR0790","Iceberg Canyon",,,"CR",140.00,"LPCR1395",0
+"SCCR0880","Lake Canyon",,,"CR",158.90,"LPCR1587",0
+"SCCR0990","Moki Canyon",,,"CR",177.20,"LPCR1772",0
+"SCCR1090","Knowles Canyon",,,"CR",193.30,"LPCR1933",0
+"SCCR1180","LOWER GOOD HOPE BAY",,,"CR",208.50,"LPCR2085",0
+"SCCR1280","SCORUP CANYON",,,"CR",225.50,"LPCR2255",0
+"SCCR1370","PALISADES",,,"CR",244.00,"LPCR2440",0
+"SCCR1390","Hite Marina",,,"CR",248.70,"LPCR2483",0
+"SCCR1410","Dirty Devil Confluence",,,"CR",249.00,"LPCR_INF",0
+"SCCR1415","COLO. R. BEL HITE BRIDGE",,,"CR",251.40,"LPCR_INF",0
+"SCCR1420","COLO. R. AT HITE BRIDGE",,,"CR",252.00,"LPCR_INF",0
+"SCCR1440","ROCK CANYON",,,"CR",255.00,"LPCR_INF",0
+"SCCR1460","COLO. R. AT UPPER NARROW CANYON",,,"CR",258.70,"LPCR_INF",0
+"SCCR1480","COLO. R. AT SHEEP CYN",,,"CR",261.80,"LPCR_INF",0
+"SCCR1500","COLO. R. ABV MILLE CRAG BEND",,,"CR",266.00,"LPCR_INF",0
+"SCCR1540","COLO. R. AT DARK CANYON",,,"CR",271.60,"LPCR_INF",0
+"SCCR1570","COLO. R. AT COVE CANYON",,,"CR",276.90,"LPCR_INF",0
+"SCCR1620","Colo. R. at Clearwater Canyon",,,"CR",285.90,"LPCR_INF",0
+"SCCR1690","Colo. R. at Hite Boat Ramp (Belnap RM 169)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1695","Colo. R. below Dirty Devil Conf. (Belnap RM 169.5)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1700","Colo. R. below Imperial Canyon",,,"CR",299.00,"LPCR_INF",0
+"SCCR1703","Colo. R. upst of Rangeline R300 (Belnap RM 170.3)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1705","Colo. R. at Dirty Devil Conf. (Belnap RM 170.5)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1730","Colo. R. above Rock Canyon (Belnap RM 173)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1750","Colo. R. below Mille Crag Bend (Belnap RM 175)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1790","Colo. R. below Freddies Cistern (Belnap RM 179)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1830","Colo. R. above Dark Canyon (Belnap RM 183)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1860","Colo. R. below Cove Canyon (Belnap RM 186)",,,"CR",0.00,"LPCR_INF",0
+"SCCR1920","Colo. R. above Clearwater Canyon (Belnap RM 192)",,,"CR",0.00,"LPCR_INF",0
+"SCCR2000","Colo. R. below Imperial Canyon (Belnap RM 200)",,,"CR",0.00,"LPCR_INF",0
+"SCCR2150","Colorado River below Green R. Confluence",38.16,-109.91,"CR",0.00,"LPCR_INF",0
+"SCDAR_A","Dark Canyon - lower",,,"DAR",0.00,,0
+"SCDAR_B","Dark Canyon - mid",,,"DAR",0.00,,0
+"SCDAR_C","Dark Canyon - upper",,,"Dar",0.00,,0
+"SCDG0001","Dangling Rope Marina",,,"DGR",0.00,,0
+"SCDVG014","MID DAVIS GULCH",,,"DVG",1.40,,0
+"SCESC055","MOUTH OF DAVIS GULCH",,,"ESC",11.90,"LPESC119",0
+"SCESC095","ESC. R. @ WILLOW CK.",,,"ESC",20.00,"LPESC200",0
+"SCESC120","BELOW GARCES ISLAND",,,"ESC",25.50,"LPESC273",0
+"SCESC122","ESC. R. @ GARCES ISLAND",,,"ESC",25.90,"LPESC273",0
+"SCESC130","ESC. R. 1 MILE ABOVE GARC",,,"ESC",27.60,"LPESCINF",0
+"SCESC136","ESC. Site #4",,,"ESC",18.90,"LPESCINF",0
+"SCESC140","ESC. Site #3",,,"ESC",29.80,"LPESCINF",0
+"SCESC146","ESC. Site #2",,,"ESC",31.00,"LPESCINF",0
+"SCESC150","Escalante River at Cow-Fence Canyon",,,"ESC",31.90,"LPESCINF",0
+"SCESC151","Escalante at Garces Island",,,"ESC",32.10,"LPESC273",0
+"SCESC168","Escalante River above Garces Island",,,"ESC",35.70,"LPESC273",0
+"SCESC170","Escalante River at Beaches",,,"ESC",31.00,"LPESCINF",0
+"SCESC180","Escalante Inflow",,,"ESC",36.00,"LPESCINF",0
+"SCESC182","ESCALANTE NEAR INFLOW",,,"ESC",30.20,"LPESCINF",0
+"SCESC195","Escalante River at Cow-Fence Canyon",,,"ESC",31.90,"LPESCINF",0
+"SCESC200","Escalante Inflow-RM 19.9 on Braun Map",,,"ESC",32.00,"LPESCINF",0
+"SCESC208","BELOW COW CYN. OF ESC. ARM",,,"ESC",34.50,"LPESCINF",0
+"SCESC210","Escalante at Unk Cyn #3",,,"ESC",34.70,"LPESC347",0
+"SCESC212","COW CYN. OF ESC. ARM",,,"ESC",34.70,"LPESCINF",0
+"SCESCGW1","GW RET#1 ESC",,,"ESC",0.00,,0
+"SCFAC015","Face Canyon",,,"FAC",1.50,"LPFAC039",0
+"SCGC0000","Colorado R. at Lees Ferry",,,"CR",-24.90,"LPCR-249",0
+"SCGC-145","Colorado R. below Glen Canyon Dam",,,"CR",0.00,"LPCR0000",0
+"SCGUN026","Gunsight Canyon - 2.6 mi abv confluence",,,"GUN",2.60,,0
+"SCLAB001","Labyrinth Canyon",36.99,-111.29,"LAB",0.10,"LPLAB000",0
+"SCLAS055","Last Chance Canyon - 5.5 mi abv confluence",,,"LAS",5.50,,0
+"SCLAS060","Last Chance Canyon - 6 mi abv confluence",,,"LAS",6.00,,0
+"SCNAV_N1","Navajo Canyon Zooplantkon Station N1",,,,0.00,,0
+"SCNAV_N2","Navajo Canyon Zooplantkon Station N2",,,,0.00,,0
+"SCNAV_N3","Navajo Canyon Zooplantkon Station N3",,,,0.00,,0
+"SCNAV_N4","Navajo Canyon Zooplantkon Station N4",,,,0.00,,0
+"SCNAV_N5","Navajo Canyon Zooplantkon Station N5",,,,0.00,,0
+"SCNAV_N6","Navajo Canyon Zooplantkon Station N6",,,,0.00,,0
+"SCNAV_N7","Navajo Canyon Zooplantkon Station N7",,,,0.00,,0
+"SCNAV000","NAVAJO CANYON AT MOUTH",,,"NAV",0.00,,0
+"SCNAV015","LOWER NAVAJO CANYON",,,"NAV",1.50,,0
+"SCNAV075","MID NAVAJO CANYON",,,"NAV",12.40,"LPNVC124",0
+"SCNAVGW1","Navajo Canyon Return Flow",,,"NAV",0.00,,0
+"SCNAVGW2","Navajo Canyon Return Flow",,,"NAV",0.00,,0
+"SCPA0000","Paria River at Mouth",,,"PA0",0.00,,0
+"SCPW1740","Mud Flat Pore Water at RM 174.0",,,"PW1",74.00,,0
+"SCROC035","Rock Creek Canyon - 3.5 mi abv confluence",,,"ROC",3.50,,0
+"SCSJR161","San Juan above Deep Canyon",,,"SJR",29.70,,0
+"SCSJR180","LOWER PIUTE BAY",,,"SJR",32.90,"LPSJR329",0
+"SCSJR250","UPPER PIUTE BAY",,,"SJR",43.10,"LPSJR431",0
+"SCSJR300","San Juan River at Great Bend",,,"SJR",0.00,"LPSJR530",0
+"SCSJR305","ALCOVE CANYON",,,"SJR",49.20,"LPSJR530",0
+"SCSJR350","Lower Zahn Bay",,,"SJR",62.50,"LPSJR625",0
+"SCSJR400","MIDDLE ZAHN BAY",,,"SJR",68.60,"LPSJRINF",0
+"SCSJR415","SAN JUAN BEL NOKAI CANYON",,,"SJR",70.00,"LPSJRINF",0
+"SCSJR420","NOKAI CANYON",,,"SJR",70.30,"LPSJRINF",0
+"SCSJR440","SAN JUAN BELOW COPPER CANYON",,,"SJR",73.00,"LPSJRINF",0
+"SCSJR485","SAN JUAN R. BEL MIKES CYN",,,,0.00,"LPSJRINF",0
+"SCSJR495","SAN JUAN R. AB MIKES CYN",,,"SJR",81.30,"LPSJRINF",0
+"SCSJR520","San Juan River at Lower Piute Farms",,,"SJR",83.00,"LPSJRINF",0
+"SCSJR524","San Juan River above Mikes Canyon",,,"SJR",81.30,"LPSJRINF",0
+"SCSJR535","SAN JUAN R - PIUTE FARMS",,,"SJR",87.00,"LPSJRINF",0
+"SCSJR550","SAN JUAN R - PIUTE FARMS",,,"SJR",87.00,"LPSJRINF",0
+"SCUCLP01","GLEN CANYON DAM",,,"CR",0.50,"LPCR0024",0
+"SCUCLP11","Colorado River below Glen Canyon Dam",,,"CR",0.00,"LPCR0024",0
+"SCUCLP12","WAHWEAP BAY--",,,"CR",2.40,"LPCR0024",0
+"SCUCLP13","CROSSING OF THE FATHERS",,,"CR",45.30,"LPCR0453",0
+"SCUCLP14","OAK CANYON",,,"CR",90.50,"LPCR0905",0
+"SCUCLP15","CHA CANYON (SAN JUAN R.)",,,"SJR",19.30,"LPSJR193",0
+"SCUCLP16","ESCALANTE RIVER",,,"CR",116.90,"LPCR1169",0
+"SCUCLP17","Bullfrog Bay",,,"CR",169.20,"LPCR1692",0
+"SCUCLP18","HITE BASIN",,,"CR",238.70,"LPCR2387",0
+"SCUCLP35","CATARACT BUOY @ SHEEP CYN",,,"CR",260.00,"LPCR_INF",0
+"SCUCLP36","COLORADO RIVER AT CLEARWATER CANYON",,,"CR",285.90,"LPCR_INF",0
+"SCUCLPAT","Glen Canyon Dam Access Tunnel",,,"CR",0.00,,0
+"SCWAH055","Wahweap Bay - 5.5 mi abv confluence",,,"WAH",5.50,,0
+"SCWAH060","Wahweap Bay - 6 mi abv confluence",,,"WAH",6.00,,0
+"SCWAH090","Wahweap Bay at Lone Rock Beach",,,,0.00,,0
+"SCWAR001","Warm Creek Bay",,,"WAR",13.00,"LPWAR130",0
+"SCWAR040","Warm Creek Bay - 4 mi abv confluence",,,"WAR",4.00,,0
+"SCWAR060","Warm Creek Bay - 6 mi abv confluence",,,"WAR",13.00,"LPWAR130",0
+"SCWB0200","Wahweap Marina",,,"WAH",7.30,"LPWAH073",0
+"SCWCB020","MID WARM CK BAY",,,"WCB",13.00,"LPWAR130",0
+"SCWCBGW1","GW Ret#1 Wrm",,,"WCB",0.00,,0
+"SCWES025","West Canyon",,,"WES",2.50,"LPWES025",0
