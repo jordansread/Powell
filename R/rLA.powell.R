@@ -20,6 +20,8 @@ uStar	<-	St
 LA	<-	St
 epi.temp	<-	St
 hypo.temp	<-	St
+ave.temp	<-	St
+therm.depth	<-	St
 srt.time	<-	St # sorter for time
 for (j in 1:length(un.dates)){
 	
@@ -51,6 +53,9 @@ for (j in 1:length(un.dates)){
 	epi.temp[j]	<-	layer.temperature(0, meta.depths[1], wtr[indx], depth[indx], bthA, bthD)
 	hypo.temp[j]<-	layer.temperature(meta.depths[2], max(bthD), wtr[indx], depth[indx], bthA, bthD)
 	hyp.rho	<-	layer.density(meta.depths[2], max(bthD), wtr[indx], depth[indx], bthA, bthD)
+	ave.temp[j]	<-	layer.temperature(0,max(bthD), wtr[indx], depth[indx], bthA, bthD)
+	
+	therm.depth[j]	<-	thermo.depth(wtr[indx],depth[indx])
 	uStar[j]	<-	uStar(wndSpeed=2, wndHeight=10, epi.rho)
 	
 	St[j]	<-	schmidt.stability(wtr[indx], depth[indx], bthA, bthD)
@@ -61,6 +66,8 @@ for (j in 1:length(un.dates)){
 
 indx	<-	order(srt.time)
 
-la.out	<-	data.frame(DateTime=time[indx],lake.number=LA[indx],Schmidt.Stability=St[indx],epi.temp=epi.temp[indx],hypo.temp=hypo.temp[indx])
+la.out	<-	data.frame(DateTime=time[indx],lake.number=LA[indx],Schmidt.Stability=St[indx],
+	epi.temp=epi.temp[indx],hypo.temp=hypo.temp[indx],
+	ave.temp=ave.temp[indx],thermo.depth=therm.depth[indx])
 output = "../data/LakeAnalyzer_Powell.txt"
 write.table(la.out,file=output,col.names=TRUE, quote=FALSE, row.names=FALSE, sep="\t")
