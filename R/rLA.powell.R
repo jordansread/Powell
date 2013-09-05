@@ -23,6 +23,8 @@ hypo.temp	<-	St
 ave.temp	<-	St
 therm.depth	<-	St
 srt.time	<-	St # sorter for time
+
+# from Dale: scuclp12 and lpcr0024 sites combined for Wahweap
 for (j in 1:length(un.dates)){
 	
 
@@ -36,6 +38,7 @@ for (j in 1:length(un.dates)){
 	
 	# - sort - 
 	indx	<-	order(depth)
+	print(un.dates[j])
 	meta.depths	<-	meta.depths(wtr[indx], depth[indx], slope=0.01, seasonal=TRUE)
 	
 	# -- interpolate temporally for surface height
@@ -62,10 +65,12 @@ for (j in 1:length(un.dates)){
 	time[j]	<-	un.dates[j]
 	srt.time[j]	<-	pos.date
 	LA[j]	<-	lake.number(bthA, bthD, uStar[j], St[j], meta.depths[1], meta.depths[2], hyp.rho)
+	
 }	
 
-indx	<-	order(srt.time)
 
+indx	<-	order(srt.time)
+#plot(srt.time[indx],ave.temp[indx])
 la.out	<-	data.frame(DateTime=time[indx],lake.number=LA[indx],Schmidt.Stability=St[indx],
 	epi.temp=epi.temp[indx],hypo.temp=hypo.temp[indx],
 	ave.temp=ave.temp[indx],thermo.depth=therm.depth[indx])
