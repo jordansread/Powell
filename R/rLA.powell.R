@@ -14,6 +14,11 @@ names(powell.lvl)
 powell.lvl$Date	<-	as.Date(powell.lvl$Date,"%Y-%m-%d")
 un.dates	<-	sort(unique(data$Date))
 
+wahweap.wnd	<-	read.table(paste(root.dir,'wind_Wahweap.tsv',sep=''),header=TRUE,sep='\t')
+wahweap.wnd$Date	<-	as.Date(wahweap.wnd$TIMESTEP,"%Y-%m-%dT%H:%M:%SZ")
+
+
+
 St	<-	vector(length=length(un.dates))
 time	<-	St
 uStar	<-	St
@@ -29,7 +34,7 @@ srt.time	<-	St # sorter for time
 # from Dale: scuclp12 and lpcr0024 sites combined for Wahweap
 for (j in 1:length(un.dates)){
 	
-
+	
 	pos.date	<-	as.Date(un.dates[j],"%m/%d/%Y %H:%M:%S")#"%Y-%m-%d %H:%M:%S"
 	
 	
@@ -41,9 +46,11 @@ for (j in 1:length(un.dates)){
 	# - sort - 
 	indx	<-	order(depth)
 	print(un.dates[j])
-	meta.depths	<-	meta.depths(wtr[indx], depth[indx], slope=0.01, seasonal=TRUE)
+	
+	meta.depths	<-	meta.depths(wtr[indx], depth[indx], slope=0.05, seasonal=TRUE)
 	
 	# -- interpolate temporally for surface height
+	wnd.wah	<-	approx(x=wahweap.wnd$Date,y=wahweap.wnd$MEAN.m.s.,xout=pos.date,rule=2)$y
 	surf.masl	<-	approx(x=powell.lvl$Date,y=powell.lvl$masl,xout=pos.date,rule=2)$y
 		
 	bthA	<-	Wahweap.bth$areas
@@ -61,7 +68,7 @@ for (j in 1:length(un.dates)){
 	ave.temp[j]	<-	layer.temperature(0,max(bthD), wtr[indx], depth[indx], bthA, bthD)
 	
 	therm.depth[j]	<-	thermo.depth(wtr[indx],depth[indx])
-	uStar[j]	<-	uStar(wndSpeed=2, wndHeight=10, epi.rho)
+	uStar[j]	<-	uStar(wndSpeed=wnd.wah, wndHeight=10, epi.rho)
 	
 	St[j]	<-	schmidt.stability(wtr[indx], depth[indx], bthA, bthD)
 	time[j]	<-	un.dates[j]
