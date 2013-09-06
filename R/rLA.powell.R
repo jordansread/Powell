@@ -22,6 +22,8 @@ epi.temp	<-	St
 hypo.temp	<-	St
 ave.temp	<-	St
 therm.depth	<-	St
+meta.bot	<-	St
+meta.top	<-	St
 srt.time	<-	St # sorter for time
 
 # from Dale: scuclp12 and lpcr0024 sites combined for Wahweap
@@ -65,7 +67,8 @@ for (j in 1:length(un.dates)){
 	time[j]	<-	un.dates[j]
 	srt.time[j]	<-	pos.date
 	LA[j]	<-	lake.number(bthA, bthD, uStar[j], St[j], meta.depths[1], meta.depths[2], hyp.rho)
-	
+	meta.top[j]	<-	meta.depths[1]
+	meta.bot[j]	<-	meta.depths[2]
 }	
 
 
@@ -73,6 +76,6 @@ indx	<-	order(srt.time)
 #plot(srt.time[indx],ave.temp[indx])
 la.out	<-	data.frame(DateTime=time[indx],lake.number=LA[indx],Schmidt.Stability=St[indx],
 	epi.temp=epi.temp[indx],hypo.temp=hypo.temp[indx],
-	ave.temp=ave.temp[indx],thermo.depth=therm.depth[indx])
+	ave.temp=ave.temp[indx],thermo.depth=therm.depth[indx],meta.top=meta.top[indx],meta.bot=meta.bot[indx])
 output = "../data/LakeAnalyzer_Powell.txt"
 write.table(la.out,file=output,col.names=TRUE, quote=FALSE, row.names=FALSE, sep="\t")
